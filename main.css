@@ -1,0 +1,28 @@
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .box {
+   width: 50%;
+   height: 50%;  
+  }
+  
+  .box1 {
+    background-color: silver;
+  }
+  
+  .box2 {
+    background-color: blue;
+  }
+  
+  .box3 {
+    background-color: purple;
+  }
+  
+  .box4 {
+    background-color: yellow;
+  }
